@@ -1,0 +1,425 @@
+.container{
+    background-image: url("../rasmlar/color_body_bg_image.jpg");
+}
+.br{
+    background-color: whitesmoke;
+    height: 60px;
+    width: 1140px;
+    position: relative;
+    top: -10px;
+}
+.bg{
+    background-color: #c5eaf6;
+    height: 80px;
+    width: 1140px;
+    position: relative;
+    bottom: 10px;
+}
+.bk{
+    background-color: white;
+    height: 80px;
+    width: 1180px;
+    position: relative;
+    top: -1px;
+}
+.ss{
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    position: relative;
+    top: 27px;
+    left: 600px;
+}
+.sumka{
+    width: 115px;
+    height: 35px;
+    background-color: white;
+    position: relative;
+    top: 27px;
+    left: 610px;
+}
+.o{
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    position: relative;
+    top: 32px;
+    left: 530px;
+}
+.s{
+    position: relative;
+    top: -40px;
+    left: 32px;
+}
+.odam{
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    position: relative;
+    top: 27px;
+    left: 600px;
+}
+.dd{
+    position: relative;
+    bottom: 50px;
+    left: 50px;
+}
+.wm{
+    width: 300px;
+    font-size: 13px;
+}
+.wm1{
+    width: 300px;
+    font-size: 13px;
+    position: relative;
+    top: 14px;
+    left: -50px;
+}
+.wm2{
+    width: 300px;
+    font-size: 13px;
+    position: relative;
+    left: -50px;
+}
+.ye{
+    font-size: 18px;
+    position: relative;
+    top: -43px;
+}
+.yee{
+    position: relative;
+    top: -15px;
+    left: -360px;
+    font-size: 12px;
+}
+.fe{
+    font-size: 18px;
+    position: relative;
+    top: -150px;
+    left: 300px;
+}
+.fee{
+    position: relative;
+    top: -121px;
+    left: -60px;
+    font-size: 12px;
+}
+.te{
+    font-size: 18px;
+    position: relative;
+    top: -250px;
+    left: 600px;
+}
+.tee{
+    position: relative;
+    top: -223px;
+    left: 245px;
+    font-size: 12px;
+}
+.be{
+    font-size: 18px;
+    position: relative;
+    top: -350px;
+    left: 900px;
+}
+.bee{
+    position: relative;
+    top: -315px;
+    left: 540px;
+    font-size: 12px;
+}
+.mb{
+    position: relative;
+    top: -200px;
+    left: 80px;
+}
+.oo{
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+.bs{
+    background-color: rgba(34,31,32,1);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -280px;
+}
+.vv{
+    font-size: 12px;
+    margin-left: 50px;
+
+}
+.a{
+    color: gray;
+}
+.a:hover{
+    color: gray;
+    text-decoration: none;
+}
+.bgg{
+    background-color: #fcfcfc;
+}
+.textcol{
+    color: gray;
+}
+.bgg1 {
+    background-color: #62584d;
+}
+.btnbag{
+    background-color: #ef9393;
+}
+.btnbag1{
+    background-color: #fad4d4;
+}
+.with{
+    width: 40px;
+    height: 40px;
+}
+.top{
+    border-radius: 0px;
+    position: relative;
+    top: -95px;
+    left: 930px;
+}
+.bg1{
+    background-color: #c5eaf6;
+    height: 95px;
+}
+.a{
+    color: gray;
+}
+.a:hover{
+    color: gray;
+    text-decoration: none;
+}
+.home{
+    background-color: lightgray;
+}
+.z{
+    padding: 5px 20px;
+    background-color: white;
+    height: 35px;
+}
+.zz{
+    background-color: lightblue;
+    height: 90px;
+}
+.nomer{
+    color: grey;
+    position: relative;
+    left: 10px;
+}
+.nomer:hover{
+    text-decoration: none;
+    color: grey;
+}
+.x{
+    transform: translateX(350px);
+}
+.butonlar{
+    position: relative;
+    top: 25px;
+
+}
+.inn{
+    width: 280px !important;
+    border: 2px solid lightgrey;
+}
+.bd{
+    position: relative;
+    margin-left: 5px;
+}
+.b{
+    position: relative;
+    right: 100px;
+    border-radius: 0 !important;
+}
+.xz{
+    height: 40px;
+    background-color: white !important;
+}
+.Avenue{
+    font-size: 13px;
+}
+.rang{
+    background-color: #69391d;
+}
+.a:hover{
+    text-decoration: none;
+}
+.aa{
+    margin-left: 30% !important;
+}
+.f{
+    width: 50px;
+    font-size: 17px;
+}
+.ff{
+    width: 50px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.down{
+    transform: rotate(-90deg);
+    position: relative;
+    top: 15px;
+}
+.fixed{
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid lightskyblue;
+    line-height: 45px;
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+    background-color: lightskyblue;
+    border-radius: 100%;
+    z-index: 5;
+}
+.Create{
+    position: relative;
+    top: 5%;
+    color: grey;
+    margin-left: 39%;
+}
+.inputtt{
+    margin-top: -4%;
+}
+.shopy{
+    font-size: 12px;
+
+}
+.Baby{
+    margin-top: -5%;
+    font-weight: 500;
+    font-size: 20px;
+    color:  palevioletred;
+}
+.tim{
+    position: relative;
+    top: -35px;
+    margin-left: 47%;
+}
+.Baby1{
+    color: palevioletred;
+    position: relative;
+    bottom: 5px;
+}
+.y{
+    height: 50px;
+}
+.zx{
+    margin-top: -20px;
+}
+.shop{
+    font-size: 15px;
+    position: relative;
+    bottom: 5px;
+    right: 10px;
+}
+.bb{
+    width: 20px;
+    height: 30px;
+    margin-left: 130px;
+    position: relative;
+    top: -40px;
+}
+.dell{
+    font-size: 11px;
+}
+.sale{
+    background-color: #40340b;
+    color: white;
+    border-radius: 0;
+    position: relative;
+    top: -16px;
+    right: 20px;
+}
+.bnn{
+    background-color: #0ba0a0;
+    color: white;
+    border-radius: 0;
+    position: relative;
+    left: 155px;
+    top: -16px;
+}
+.foiz{
+    background-color: #0ba0a0;
+    color: white;
+    border-radius: 0;
+    position: relative;
+    left: 148px;
+    top: -16px;
+}
+.spa{
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+}
+.spa1{
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color: yellow;
+}
+.spa2{
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color:pink;
+}
+.spa3{
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color:brown;
+}
+.spa4{
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color:blue;
+}
+.spa5{
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color:ghostwhite;
+}
+.spa6{
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color:green;
+}
+.bdd{
+    background-color: #533f03;
+    color: white;
+    position: relative;
+    bottom: 17px;
+    border-radius: 0;
+    right: 20px;
+}
+.bddd{
+    background-color: cadetblue;
+    border-radius: 0;
+    color: white;
+    position: relative;
+    left: 110px;
+    bottom: 17px;
+}
+.rass{
+    margin-top: -24px;
+}
+.margin{
+    position: relative;
+    top: -10px;
+}
+.gg{
+    height: 300px;
+}
+
+
